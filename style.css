@@ -1,0 +1,77 @@
+body{
+font-family: font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+
+.name_highlight{
+    color:green;
+}
+.halfweight{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.halfweight img{
+width: 100%;
+}
+
+    section{
+        height: 500px;
+        padding-bottom: 200px;
+    }
+    .but {
+        text-decoration: none;
+        background-image: linear-gradient(45deg,lightsalmon,tomato);
+        padding : 20px 20px 20px 20px;
+        border-radius: 5px;
+        color: red;
+        font-weight: 700;
+        margin-top: 50%;
+
+        
+    
+    }
+    p{
+        color: rgb(146, 142, 142);
+    }
+    .da{
+        background-image: url("C:\webdevelpoment\project\webportfolio\images\dream-bg.png");
+    }
+    .sn{
+        box-shadow: 10% 10p% 40% gray;
+        border-radius: 10 %;
+        
+        
+        
+    }
+    
+        
+    
+
+
+    #co{
+        text-align: center;
+        color: red;
+    }
+    .firstname{
+        color: blueviolet;
+    }
+    .bd{
+        width: 30%;
+        float: left;
+        background-repeat: no-repeat;
+        box-shadow:10px 10px 40px gray;
+        margin: 5px 5px 5px 20px;
+        border-radius: 5%;
+        padding-left:10px;       
+       
+
+
+    }
+    .bd img {
+        width: 100%;
+    }
+    
