@@ -73,5 +73,57 @@ width: 100%;
     }
     .bd img {
         width: 100%;
+        
+    }
+    .kaka{
+        background-image: url("images/Group_33094_1.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        width: 50%;
+        margin-left: 30%;
+        height: 30%;
+        
+        
+    }
+    .kakared{
+        color: rgb(233, 225, 233);
+        padding-left: 15%;
+        padding-top: 8%;
+        
+
+    float: left;
+
+        
+        
+        font-weight: bold;
+        width: 30%;
     }
     
+        
+        
+#kaku{
+    text-decoration: none;
+        background-image: linear-gradient(45deg,lightsalmon,tomato);
+        width:15%;
+        padding: 2px 2px 2px 2px;
+        margin-top: 10%;
+        margin-left: 10%;
+        
+        color: red;
+
+
+    
+      
+        
+        
+}
+#connection{
+    text-align: center;
+    color: blueviolet;
+    font-weight:bold;
+}
+        
+        
+
+    
+   
